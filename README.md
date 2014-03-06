@@ -8,7 +8,7 @@ A series of input images, LUTs, and output images for each LUT. This should be h
 
 Find these files the `test_cases` directory.
 
-# Uniform Type Identifiers (UTI) for LUTs
+## Uniform Type Identifiers (UTI) for LUTs
 
 A comprehensive specification for Apple's [Uniform Type Identifiers](https://en.wikipedia.org/wiki/Uniform_Type_Identifier) for LUT file types.
 
