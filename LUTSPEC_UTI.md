@@ -18,7 +18,7 @@ It should also provide enough information to disambiguate file types that share 
 
       - **com.autodesk.3dl** - Autodesk Lustre 3D LUT - `.3dl`
 
-      - **com.blackmagicdesign.cube** -  DaVinci Resolve Cube LUT - `.cube`
+      - **com.blackmagicdesign.cube** -  DaVinci Resolve Cube LUT - `.cube` - [Adobe Specification (PDF)](http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf)
 
     - **public.1d-color-lookup-table** - A one-dimensional color lookup table.
 
